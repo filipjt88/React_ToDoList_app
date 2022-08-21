@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    user-select: none;
+}
+
+
+.complete {
+    text-decoration: line-through;
+    transition-duration: 1s;
+}
+
+.incomplete {
+    text-decoration: none;
+}
+
+.react-bg {
+    background-color: lightblue;
+}
